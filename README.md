@@ -180,7 +180,7 @@ The dashboard includes:
 
 ## Repository Structure
 ```
-session-behavior-dashboard/
+session-behavior-analysis-dashboard-tableau/
 
 README.md
 
